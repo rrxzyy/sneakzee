@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "image": "/images/product1.webp",
+    "secondImage": "/images/product1.webp",
+    "Productname": "Classic Leather Sneakers",
+    "price": "$89.99",
+    "tag": "New"
+  },
+  {
+    "id": 2,
+    "image": "/images/product2.webp",
+    "secondImage": "/images/product2.webp",
+    "Productname": "Retro Runner Shoes",
+    "price": "$65.00",
+    "oldprice": "$90.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 3,
+    "image": "/images/product3.webp",
+    "secondImage": "/images/product4.webp",
+    "Productname": "Canvas Low Tops",
+    "price": "$49.00",
+    "tag": "New"
+  },
+  {
+    "id": 4,
+    "image": "/images/product5.webp",
+    "secondImage": "/images/product6.webp",
+    "Productname": "Trail Hiking Boots",
+    "price": "$119.00",
+    "oldprice": "$149.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 5,
+    "image": "/images/product7.webp",
+    "secondImage": "/images/product8.webp",
+    "Productname": "Casual Slip-Un Loaters",
+    "price": "$59.00",
+    "oldprice": "$85.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 6,
+    "image": "/images/product9.webp",
+    "secondImage": "/images/product10.webp",
+    "Productname": "Sporty Gym Trainers",
+    "price": "$74.00"
+  },
+  {
+    "id": 7,
+    "image": "/images/product11.webp",
+    "secondImage": "/images/product12.webp",
+    "Productname": "High-Top Street Sneakers",
+    "price": "$99.00"
+  },
+  {
+    "id": 8,
+    "image": "/images/product13.webp",
+    "secondImage": "/images/product14.webp",
+    "Productname": "Breathable Knit Runners",
+    "price": "$69.00"
+  },
+  {
+    "id": 9,
+    "image": "/images/product15.webp",
+    "secondImage": "/images/product16.webp",
+    "Productname": "Waterproof Outdoor Shoes",
+    "price": "$89.00"
+  },
+  {
+    "id": 10,
+    "image": "/images/product3.webp",
+    "secondImage": "/images/product4.webp",
+    "Productname": "Limited Edition Trainers",
+    "price": "$99.00",
+    "oldprice": "$129.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 11,
+    "image": "/images/product1.webp",
+    "secondImage": "/images/product1.webp",
+    "Productname": "Minimalist White Sneakers",
+    "price": "$79.00"
+  },
+  {
+    "id": 12,
+    "image": "/images/product2.webp",
+    "secondImage": "/images/product2.webp",
+    "Productname": "Everyday Walking Shoes",
+    "price": "$59.00"
+  },
+  {
+    "id": 13,
+    "image": "/images/product21.png",
+    "secondImage": "/images/product21.png",
+    "Productname": "Premium Shoe Care Kit",
+    "price": "$29.00"
+  },
+  {
+    "id": 14,
+    "image": "/images/product22.png",
+    "secondImage": "/images/product22.png",
+    "Productname": "Ergonomic Insole Set",
+    "price": "$251.00",
+    "oldprice": "$35.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 15,
+    "image": "/images/product23.png",
+    "secondImage": "/images/product23.png",
+    "Productname": "Compact Travel Shoe Bag",
+    "price": "$17.00",
+    "oldprice": "$29.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 16,
+    "image": "/images/product19.png",
+    "secondImage": "/images/product19.png",
+    "Productname": "Deluxe Shoe Cleaning Brush",
+    "price": "$14.00",
+    "oldprice": "$22.00",
+    "tag": "Sale"
+  }
+]
