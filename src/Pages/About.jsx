@@ -6,8 +6,7 @@ import 'swiper/css/autoplay';
 import 'swiper/css/effect-fade';
 import 'swiper/css/navigation';
 
-import about1 from '/src/assets/about.webp'
-import about2 from '/src/assets/about2.webp'
+
 // import about3 from '/src/assets/about3.webp'
 
 // import serviceImg1 from '/src/assets/service-icon-1.svg';
@@ -42,7 +41,7 @@ function About() {
         <div className='mb-5' >
           <div className='flex flex-col lg:flex-row items-center gap-10'>
             <div className='w-full lg:w-1/2 group overflow-hidden'>
-              <img src={about1} alt=""
+              <img src={'/src/assets/about.webp'} alt=""
                 className='w-full transition-all duration-500 group-hover:scale-110' />
             </div>
             <div className='w-full lg:w-1/2 group overflow-hidden'>
@@ -67,7 +66,7 @@ function About() {
         <div>
           <div className='flex flex-col lg:flex-row-reverse items-center gap-10' >
             <div className='w-full 1g:w-1/2 mb-4 md:mb-0 group overflow-hidden'>
-              <img src={about2} alt=""
+              <img src={'/src/assets/about2.webp'} alt=""
                 className='w-full transition-all duration-500 group-hover:scale-110' />
             </div>
             <div className='w-full 1g:w-1/2'>
