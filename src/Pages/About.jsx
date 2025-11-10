@@ -6,25 +6,25 @@ import 'swiper/css/autoplay';
 import 'swiper/css/effect-fade';
 import 'swiper/css/navigation';
 
-import about1 from './assets/about.webp'
-import about2 from './assets/about2.webp'
-// import about3 from './assets/about3.webp'
+import about1 from '/src/assets/about.webp'
+import about2 from '/src/assets/about2.webp'
+// import about3 from '/src/assets/about3.webp'
 
-// import serviceImg1 from './assets/service-icon-1.svg';
-// import serviceImg2 from './assets/service-icon-2.svg';
-// import serviceImg3 from './assets/service-icon-3.svg';
-// import serviceImg4 from './assets/service-icon-4.svg';
+// import serviceImg1 from '/src/assets/service-icon-1.svg';
+// import serviceImg2 from '/src/assets/service-icon-2.svg';
+// import serviceImg3 from '/src/assets/service-icon-3.svg';
+// import serviceImg4 from '/src/assets/service-icon-4.svg';
 
-import brand1 from './assets/brand-1.png';
-import brand2 from './assets/brand-2.png';
-import brand3 from './assets/brand-3.png';
-import brand4 from './assets/brand-4.png';
-import brand5 from './assets/brand-5.png';
-import brand6 from './assets/brand-6.png';
+import brand1 from '/src/assets/brand-1.png';
+import brand2 from '/src/assets/brand-2.png';
+import brand3 from '/src/assets/brand-3.png';
+import brand4 from '/src/assets/brand-4.png';
+import brand5 from '/src/assets/brand-5.png';
+import brand6 from '/src/assets/brand-6.png';
 
-import team1 from './assets/team-1.webp';
-import team2 from './assets/team-2.webp';
-import team3 from './assets/team-3.webp';
+import team1 from '/src/assets/team-1.webp';
+import team2 from '/src/assets/team-2.webp';
+import team3 from '/src/assets/team-3.webp';
 
 function About() {
   return (

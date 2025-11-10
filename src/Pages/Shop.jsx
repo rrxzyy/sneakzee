@@ -2,14 +2,14 @@ import React from 'react'
 import { useState } from 'react'
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import { Link, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 // Data
-import products from '../Data/Products.json'
+import products from '/src/Data/Products.json'
 
 function Shop() {
   const [filterSortOption, setfilterSortOption] = useState('all');
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
 
   const handleFilterSort = () => {
     let filtered = [...products];
