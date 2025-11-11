@@ -11,6 +11,7 @@ import About from './Pages/About'
 import Shop from './Pages/Shop'
 import Blog from './Pages/Blog'
 import Contact from './Pages/Contact'
+import ErrorPage from './Pages/ErrorPage'
 
 function App() {
 
@@ -28,6 +29,7 @@ function App() {
           <Route path='/shop' element={<Shop />}></Route>
           <Route path='/blog' element={<Blog />}></Route>
           <Route path='/contact' element={<Contact />}></Route>
+          <Route path='*' element={<ErrorPage />}></Route>
         </Routes>
         <Footer />
       </Router>

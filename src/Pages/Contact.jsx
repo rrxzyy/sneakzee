@@ -3,15 +3,15 @@ import React from 'react'
 function Contact() {
   return (
     <>
-      <section className='contact-section mt-20'>
+      <section className='contact-section mt-32'>
         <div className='px-[8%] lg:px-[12%] py-[50px]' >
-          <h2 className='section-title text-3xl font-bold text-center'>Keep In Touch with Us</h2>
+          <h2 className='section-title text-4xl font-bold text-center'>Keep In Touch with Us</h2>
           <p className='section-subtitle text-center mt-2 text-gray-600'>
             Be the first to know about new skincare launches, exclusive
             offers, and <br />
             expert beauty tips for radiant skin.
           </p>
-          <div className='grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-6 mt-10'>
+          <div className='grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-6 mt-24'>
             {/* Address */}
             <div className='contact-box text-left p-6'>
               <i className='ri-map-pin-line icon text-3xl mb-2'></i>
