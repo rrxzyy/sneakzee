@@ -13,7 +13,7 @@ import 'swiper/css/effect-fade'
 import 'swiper/css/navigation'
 
 // Data
-import products from '/public/Data/Products.json'
+import products from '../Data/Products.json'
 
 function ProductDetail() {
   const { id } = useParams();

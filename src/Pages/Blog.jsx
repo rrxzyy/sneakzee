@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 // Data
-import blogs from '/public/Data/Blogs.json'
+import blogs from '../Data/Blogs.json'
 
 function Blog() {
   return (

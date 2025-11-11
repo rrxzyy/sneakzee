@@ -12,7 +12,7 @@ import 'swiper/css/navigation';
 
 
 // Data
-import products from '/public/Data/Products.json'
+import products from '../Data/Products.json'
 
 import serviceImg1 from '../assets/service-icon-1.svg';
 import serviceImg2 from '../assets/service-icon-2.svg';
