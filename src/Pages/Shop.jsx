@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { Link } from 'react-router-dom';
 
 // Data
-import products from '/src/Data/Products.json'
+import products from '/public/Data/Products.json'
 
 function Shop() {
   const [filterSortOption, setfilterSortOption] = useState('all');

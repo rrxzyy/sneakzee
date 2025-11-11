@@ -12,31 +12,31 @@ import 'swiper/css/navigation';
 
 
 // Data
-import products from '/src/Data/Products.json'
+import products from '/public/Data/Products.json'
 
-import serviceImg1 from '/src/assets/service-icon-1.svg';
-import serviceImg2 from '/src/assets/service-icon-2.svg';
-import serviceImg3 from '/src/assets/service-icon-3.svg';
-import serviceImg4 from '/src/assets/service-icon-4.svg';
+import serviceImg1 from '../assets/service-icon-1.svg';
+import serviceImg2 from '../assets/service-icon-2.svg';
+import serviceImg3 from '../assets/service-icon-3.svg';
+import serviceImg4 from '../assets/service-icon-4.svg';
 
-import brand1 from '/src/assets/brand-1.png';
-import brand2 from '/src/assets/brand-2.png';
-import brand3 from '/src/assets/brand-3.png';
-import brand4 from '/src/assets/brand-4.png';
-import brand5 from '/src/assets/brand-5.png';
-import brand6 from '/src/assets/brand-6.png';
+import brand1 from '../assets/brand-1.png';
+import brand2 from '../assets/brand-2.png';
+import brand3 from '../assets/brand-3.png';
+import brand4 from '../assets/brand-4.png';
+import brand5 from '../assets/brand-5.png';
+import brand6 from '../assets/brand-6.png';
 
-import shoesbanner from '/src/assets/Shoes-banner.jpg';
+import shoesbanner from '../assets/Shoes-banner.jpg';
 
-import discover1 from '/src/assets/shoes-banner-image-01.png';
-import discover2 from '/src/assets/shoes-banner-image-02.png';
+import discover1 from '../assets/shoes-banner-image-01.png';
+import discover2 from '../assets/shoes-banner-image-02.png';
 
-import socialImage1 from '/src/assets/social-image-1.png';
-import socialImage2 from '/src/assets/social-image-2.png';
-import socialImage3 from '/src/assets/social-image-3.png';
-import socialImage4 from '/src/assets/social-image-4.png';
-import socialImage5 from '/src/assets/social-image-5.png';
-import socialImage6 from '/src/assets/social-image-1.png';
+import socialImage1 from '../assets/social-image-1.png';
+import socialImage2 from '../assets/social-image-2.png';
+import socialImage3 from '../assets/social-image-3.png';
+import socialImage4 from '../assets/social-image-4.png';
+import socialImage5 from '../assets/social-image-5.png';
+import socialImage6 from '../assets/social-image-1.png';
 
 function Index() {
 
