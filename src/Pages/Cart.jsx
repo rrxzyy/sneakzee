@@ -45,7 +45,6 @@ function Cart() {
     return acc + price * item.quantity;
   }, 0);
 
-  console.log(totalPrice);
   return (
     <>
       <ol className='section-banner py-3 relative' >
@@ -90,8 +89,8 @@ function Cart() {
                           <span className='text-orange-500 mx-0 md:mx-1 font-semibold text-lg md:text-xl'>{item.quantity}</span>
                           <button className='btn-outline-primary border-1 px-2 py-1 md:px-3 md:py-2 rounded-sm cursor-pointer' onClick={() =>
                             updateQuantity(item.id, 'increase')}>+</button>
-                          <button className='btn text-md text-white bg-black px-4 md:px-6 lg:px-8 py-1 md:py-2 rounded-sm cursor-pointer lg:ml-4 ml-0' onClick={() => removeItem
-                            (item.id)}>Remove</button>
+                          <button className='btn text-md text-white bg-black px-4 md:px-6 lg:px-8 py-1 md:py-2 rounded-sm cursor-pointer lg:ml-4 ml-0'
+                            onClick={() => removeItem(item.id)}>Remove</button>
                         </div>
                       </div>
                     </div>

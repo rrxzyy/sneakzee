@@ -88,7 +88,7 @@ function Wishlist() {
                         <i className='ri-shopping-cart-line me-1'></i> Add to Cart
                       </button>
                       <button className='btn bg-black text-white p-2 cursor-pointer rounded w-full'
-                        onClick={() => removeFromWishlist(product)}>
+                        onClick={() => removeFromWishlist(product.id)}>
                         <i className='ri-delete-bin-line me-1'></i> Remove
                       </button>
                     </div>

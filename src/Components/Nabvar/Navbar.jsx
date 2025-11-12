@@ -24,8 +24,8 @@ function Navbar() {
     const handleWishlistUpdated = () => updatedCounts();
 
     window.addEventListener('cartUpdated', handleCartUpdated);
-    window.addEventListener('WishlistUpdated', handleWishlistUpdated);
-
+    window.addEventListener('wishlistUpdated', handleWishlistUpdated);
+    
     const onStorageChange = (e) => {
       if (e.key === 'cart' || e.key === 'wishlist') {
         updatedCounts();
